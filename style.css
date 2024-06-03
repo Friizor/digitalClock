@@ -19,8 +19,8 @@ h1 {
     font-family: monospace;
     font-weight: bold;
     text-align: center;
-    color: #000000;
-    backdrop-filter: blur(5px);
-    background-color: hsla(0, 0%, 100%, 0.1);
+    color: #ffffff;
+    /* backdrop-filter: blur(5px);
+    background-color: hsla(0, 0%, 100%, 0.1); */
     width: 100%;
 }
