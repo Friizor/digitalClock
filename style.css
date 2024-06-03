@@ -10,6 +10,8 @@ body {
 }
 
 h1 {
-    font-size: 44px;
+    font-size: 3rem;
     font-family: monospace;
+    font-weight: bold;
+    text-align: center;
 }
