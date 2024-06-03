@@ -1,3 +1,9 @@
+let hour = document.getElementById('hour');
+let minute = document.getElementById('mnt');
+let scn = document.getElementById('scn');
+
+
+
 function displayTime() {
     const date = new Date();
     const hours = date.getHours().toString().padStart(2, "0");
@@ -9,3 +15,6 @@ function displayTime() {
     minute.textContent = `${minutes}:`;
     scn.textContent = `${seconds}`;
   }
+  
+  const intervalId = setInterval(displayTime, 1000);
+  
