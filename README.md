@@ -15,6 +15,6 @@
     Don't settle for generic solutions – incorporate this exceptional project into your web applications today!
   </p>
   <p>
-    Ready to Get Started?
+    Ready to Get Started? : https://friizor.github.io/digitalClock/
   </p>
 </div>
