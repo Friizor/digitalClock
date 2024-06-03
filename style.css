@@ -12,6 +12,7 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
+    animation: myAnim 2s ease 0s 1 normal forwards;
 }
 
 h1 {
@@ -24,6 +25,18 @@ h1 {
     background-color: hsla(0, 0%, 100%, 0.1); */
     transition: all 0.5s ease;
     width: 100%;
+}
+
+@keyframes myAnim {
+	0% {
+		opacity: 0;
+		transform: translateY(50px);
+	}
+
+	100% {
+		opacity: 1;
+		transform: translateY(0);
+	}
 }
 
 @media screen and (max-width : 1000px){
