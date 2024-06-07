@@ -1,5 +1,11 @@
 <div class="bio">
   <h2>Supercharge Your Web Projects with This Lightweight Digital Clock (JavaScript)</h2>
+<div align="center">
+    <a href="https://friizor.github.io/digitalClock/" target="_blank">
+        <img src="https://img.shields.io/badge/Demo-Link-brightgreen" alt="Demo Link">
+    </a><br>
+    <img src="https://github.com/Friizor/digitalClock/assets/153310182/05a40566-d834-4f87-a3fe-073b11cfe357" height="350px" alt="Screenshot">
+</div>
   <p>
     Elevate your web applications with this meticulously crafted digital clock implemented entirely in JavaScript. This project leverages the power of the `Date` object to deliver a highly performant and customizable time display solution. 
     With its sleek, user-friendly interface, it seamlessly integrates into any web project, enhancing the user experience with a clear and modern aesthetic.
